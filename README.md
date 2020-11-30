@@ -5,4 +5,3 @@
 - [Telegram](https://t.me/el0xren)
 - [XDA](https://forum.xda-developers.com/member.php?u=10949429)
 - [Sourceforge](https://sourceforge.net/u/el0xren/profile)
-- [PayPal](https://www.paypal.com/paypalme/el0xren)
