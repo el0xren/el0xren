@@ -1,6 +1,5 @@
-[![el0xren's github stats](https://github-readme-stats.vercel.app/api?username=el0xren)](https://github.com/el0xrem/github-readme-stats)
+<img height="140px" width="500px" src="https://github-readme-stats.vercel.app/api?username=el0xren&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight"/>
 
-![el0xren](https://telegra.ph/file/62fc9e56395775ca5680b.png)
 
 - Stuff I like: Development, creating something, involving better things.
 - [Telegram](https://t.me/el0xren)
