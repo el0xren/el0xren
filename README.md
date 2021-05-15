@@ -6,7 +6,7 @@
 
 # Interests
 
-- Stuff I like: Development, creating something, involving better things.
+- Stuff I like: Development, chilling and listening to music.
 - [Telegram](https://t.me/el0xren)
 - [XDA](https://forum.xda-developers.com/member.php?u=10949429)
 - [Sourceforge](https://sourceforge.net/u/el0xren/profile)
