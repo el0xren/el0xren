@@ -1,7 +1,5 @@
 <img height="140px" width="500px" src="https://github-readme-stats.vercel.app/api?username=el0xren&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight"/>
 
-<img height="230px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el0xren&hide_title=true&hide_border=true&layout=compact&theme=tokyonight"/>
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=el0xren.el0xren)<img align="left"/>
 
 # Interests
