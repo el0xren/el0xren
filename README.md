@@ -9,4 +9,32 @@
 - [XDA](https://forum.xda-developers.com/member.php?u=10949429)
 - [Sourceforge](https://sourceforge.net/u/el0xren/profile)
 
-
+## About me.
+```python
+class el0xren():
+    def __init__(self):
+        self.name = ['el0xren']
+        self.country = ['Lithuania']
+        self.language = ['Lithuanian', 'English', 'Russian(a bit)']
+    def programming_languages(self):
+        return [
+            'Python', 'Bash', 'html', 'Shell', 'JavaScript'
+        ]
+    def developer_tools(self):
+        return [
+            'GitHub', 'Stack Overflow', 'Docker','Heroku', 'Railway', 'Sublime'
+            'Visual Studio Code', 'Oracle Cloud', 'Termux'
+        ]
+    def operating_system(self):
+        return [
+            'Linux', 'Windows', 'Android', 'IOS'
+        ]
+    def linux_distros(self):
+        return [
+            'Ubuntu', 'Mint', 'ZorinOS'
+        ]
+    def windows_os(self):
+        return [
+            'Windows 11', 'Windows 10'
+        ]
+```
