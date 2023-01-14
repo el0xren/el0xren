@@ -18,7 +18,7 @@ class el0xren():
         self.language = ['Lithuanian', 'English', 'Russian(a bit)']
     def programming_languages(self):
         return [
-            'Python', 'Bash', 'html', 'Shell', 'JavaScript'
+            'Python', 'Bash', 'Shell', 'JavaScript'
         ]
     def developer_tools(self):
         return [
