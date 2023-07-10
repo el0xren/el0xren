@@ -31,7 +31,7 @@ class el0xren():
         ]
     def linux_distros(self):
         return [
-            'Ubuntu', 'Mint', 'ZorinOS'
+            'Ubuntu', 'Mint', 'ZorinOS', 'ArchLinux'
         ]
     def windows_os(self):
         return [
